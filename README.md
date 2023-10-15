@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dileep Kumar Ahirwar
-- 👀 I’m interested in full stack developement
+- 👀 I’m interested to learn new technologies
 - 🌱 I’m currently learning Full stack Developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
